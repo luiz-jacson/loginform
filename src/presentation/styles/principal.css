@@ -1,0 +1,27 @@
+.principal {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.title{
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.campoSenha{
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.btnLogin {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
