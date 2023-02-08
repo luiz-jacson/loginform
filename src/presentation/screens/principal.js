@@ -29,7 +29,7 @@ export default props => {
                     <h2>Senha</h2>
                     <input type="text" placeholder="Senha" name="senha" onChange={(e) => setSenha(e.target.value)}></input>
                 </div>
-                <button className="btnLogin">Logar</button>
+                <a href="mobile://detran.se" target="_blank" rel="noreferrer">Logar</a>
             </form>
         </div>
     )
